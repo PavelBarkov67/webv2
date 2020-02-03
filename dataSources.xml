@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="tod@localhost" uuid="1cd9a081-ff13-4113-bdf6-67175e5ee46c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/tod</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="db" uuid="d7d33acb-ab92-4642-93de-a2a3e820e9ae">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\User\Desktop\todo-app-using-Vuejs-and-Django-master\todo-app-using-Vuejs-and-Django-master\backend\api\db.sqlite3</jdbc-url>
+    </data-source>
+  </component>
+</project>
